@@ -1,0 +1,14 @@
+{
+  "name": "apimortyandrycky",
+  "version": "1.0.0",
+  "description": "api with urls response with info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
